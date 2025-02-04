@@ -5,3 +5,4 @@ Atividades realizadas durante o curso AWS Cloud
 - Lógica Imperativa
 - Introdução a programação
 - Preparação para HTML e CSS
+- HTML e CSS
